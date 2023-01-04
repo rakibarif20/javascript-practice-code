@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "1672644562393",
+      "title": "Title four2",
+      "author": true
+    },
+    {
+      "id": "1672644578192",
+      "title": "Title one111",
+      "author": true
+    },
+    {
+      "id": "1672644603304",
+      "title": "Title four3",
+      "author": true
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

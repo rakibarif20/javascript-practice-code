@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+}
+
+.liElement {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: firebrick;
+  color: white;
+  width: 600px;
+  margin: 3px auto;
+  padding: 3px 10px;
+  text-transform: capitalize;
+}
+
+.bg-darkGreen {
+  background-color: darkgreen;
+}
+.editButton,
+.deleteButton {
+  border: none;
+  padding: 8px;
+  outline: none;
+  margin: 0px 4px;
+  background: none;
+  border-radius: 4px;
+  color: white;
+}
+.editButton:hover {
+  background: burlywood;
+  color: #000;
+}
+
+.deleteButton:hover {
+  background: burlywood;
+  color: #000;
+}

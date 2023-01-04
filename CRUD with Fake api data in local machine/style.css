@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  width: 600px;
+  margin: 0 auto;
+}
+ul li {
+  display: flex;
+  padding: 4px 10px;
+  margin: 4px;
+  color: white;
+  /* color: #000; */
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  background: firebrick;
+}
+button {
+    padding: 6px 10px;
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    /* color: #000; */
+
+}
+button:hover {
+    background: aqua;
+    color:white;
+    border-radius:4px;
+}
+.bg-firebrick {
+    background: firebrick;
+}
+.bg-darkblue {
+    background: darkblue;
+}
+.update-style {
+  font-weight: bold;
+  font-size: 18px !important;
+  background: darkblue;
+}

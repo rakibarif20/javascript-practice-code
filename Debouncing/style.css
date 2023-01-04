@@ -1,0 +1,23 @@
+body {
+  background: aquamarine;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#bounce {
+  border: none;
+  outline: none;
+  padding: 10px;
+  border: 1px solid #ddd;
+  width: 140px;
+  height: 50px;
+  border-radius: 20px;
+}
+
+#bounce:hover {
+    cursor: pointer;
+    background: darkgreen;
+    color: white;
+    transition: all .3s;
+}
